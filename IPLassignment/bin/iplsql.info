@@ -1,0 +1,4 @@
+url=jdbc:mysql://localhost:3306/ipl
+user=root
+pass=Shahid@12
+driver=com.mysql.cj.jdbc.Driver
